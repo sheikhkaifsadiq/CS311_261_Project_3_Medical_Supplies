@@ -1,0 +1,34 @@
+experiment,input_size,package_count,capacity,algorithm,median_runtime_ns,total_weight,total_importance
+package-count,10,10,100,Greedy Ratio Heuristic,36200,98,236
+package-count,10,10,100,Dynamic Programming,128200,98,236
+package-count,10,10,100,Branch and Bound,264500,98,236
+package-count,20,20,100,Greedy Ratio Heuristic,37500,96,269
+package-count,20,20,100,Dynamic Programming,222800,96,269
+package-count,20,20,100,Branch and Bound,323500,96,269
+package-count,30,30,100,Greedy Ratio Heuristic,43100,98,399
+package-count,30,30,100,Dynamic Programming,322600,99,404
+package-count,30,30,100,Branch and Bound,251700,99,404
+package-count,40,40,100,Greedy Ratio Heuristic,87800,100,596
+package-count,40,40,100,Dynamic Programming,795700,100,596
+package-count,40,40,100,Branch and Bound,251700,100,596
+package-count,50,50,100,Greedy Ratio Heuristic,100900,99,502
+package-count,50,50,100,Dynamic Programming,160900,100,504
+package-count,50,50,100,Branch and Bound,266300,100,504
+capacity,20,35,20,Greedy Ratio Heuristic,78300,19,235
+capacity,20,35,20,Dynamic Programming,34600,20,236
+capacity,20,35,20,Branch and Bound,192300,20,236
+capacity,40,35,40,Greedy Ratio Heuristic,76600,39,261
+capacity,40,35,40,Dynamic Programming,56100,40,263
+capacity,40,35,40,Branch and Bound,330700,40,263
+capacity,60,35,60,Greedy Ratio Heuristic,62300,60,302
+capacity,60,35,60,Dynamic Programming,70100,60,304
+capacity,60,35,60,Branch and Bound,157800,60,304
+capacity,80,35,80,Greedy Ratio Heuristic,58800,79,421
+capacity,80,35,80,Dynamic Programming,58000,79,423
+capacity,80,35,80,Branch and Bound,142900,79,423
+capacity,100,35,100,Greedy Ratio Heuristic,84000,98,529
+capacity,100,35,100,Dynamic Programming,110700,100,534
+capacity,100,35,100,Branch and Bound,257600,100,534
+capacity,120,35,120,Greedy Ratio Heuristic,75800,120,538
+capacity,120,35,120,Dynamic Programming,130800,120,538
+capacity,120,35,120,Branch and Bound,203400,120,538
